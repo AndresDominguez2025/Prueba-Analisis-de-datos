@@ -1,0 +1,27 @@
+Variable,Categorias,Porcentaje
+Edad,7 a 11 años,0.019
+Edad,12 a 16 años,0.179
+Edad,17 a 21 años,0.257
+Edad,22 a 26 años,0.202
+Edad,27 a 31 años,0.109
+Edad,32 a 36 años,0.074
+Edad,37 a 41 años,0.041
+Edad,42 a 46 años,0.044
+Edad,47 a 51 años,0.03
+Edad,52 a 56 años,0.025
+Edad,57 a 61 años,0.01
+Edad,62 a 66 años,0.004
+Edad,67 a 71 años,0.001
+Edad,72 a 76 años,0.003
+Edad,77 a 81 años,0.001
+Edad,82 a 86 años,0.001
+Estrato,1,0.087
+Estrato,2,0.145
+Estrato,3,0.72
+Estrato,4,0.036
+Estrato,5,0.004
+Estrato,6,0.007
+Área de ocurrencia,Cabecera Municipal,0.549
+Área de ocurrencia,Centros Poblados y Rural Disperso,0.451
+Sexo,Mujeres,0.658
+Sexo,Hombres,0.342
